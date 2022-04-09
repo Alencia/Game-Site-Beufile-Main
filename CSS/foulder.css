@@ -1,0 +1,133 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    list-style: none;
+}
+
+.kapsa {
+    width: auto;
+    background-color: black;
+    height: auto;
+}
+
+.v1 {
+    width: auto;
+    height: 125px;
+    background-color: white;
+}
+
+.v2 {
+    width: auto;
+    height: auto;
+    background-color: black;
+}
+
+.text {
+    position: relative;
+    padding-top: 300;
+    font-size: 45;
+    text-align: center;
+    padding-left: 80px;
+    color: white;
+    font-family: arial black;
+}
+
+.text2 {
+    color: #508100;
+    margin-top: 15px;
+    font-size: 20;
+}
+
+.fa-instagram {
+    background: green;
+    color: white;
+}
+
+.fa {
+    padding: 20px;
+    border: 2px white inset;
+    box-shadow: 0 4px 12px greenyellow;
+    font-size: 30px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.alencia {
+    margin-left: 1800px;
+    margin-top: 145px;
+}
+
+.buton {
+    color: white;
+}
+
+.input2 {
+    background-color: unset;
+    box-shadow: 0 4px 12px greenyellow;
+    color: white;
+    border: yellowgreen 2px solid;
+    border-radius: 3px;
+    width: 150;
+    margin-top: 50;
+    font-size: 18;
+    height: 50;
+}
+
+.input2:hover {
+    background-color: yellowgreen;
+}
+
+.input1 {
+    background-color: yellowgreen;
+    border: yellowgreen 3px solid;
+    border-radius: 3px;
+    width: 150;
+    box-shadow: 0 4px 12px greenyellow;
+    margin-top: 50;
+    font-size: 18;
+    height: 50;
+}
+
+.input1:hover {
+    background-color: unset;
+}
+
+.v1 ul {
+    height: 20px;
+    margin-left: 1200px;
+    margin-top: -95px;
+    list-style: none;
+}
+
+.v1 li {
+    display: inline;
+}
+
+.v1 a {
+    display: block;
+    color: black;
+    float: left;
+    text-align: center;
+    height: 30px;
+    padding: 25px 65px 20px 20px;
+    text-decoration: none;
+    font-family: arial black;
+    font-weight: bold;
+}
+
+.v1 a:hover {
+    color: red;
+}
+
+.v1 a b {
+    text-decoration: underline;
+}
